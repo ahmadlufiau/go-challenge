@@ -1,18 +1,16 @@
+# GO CHALLENGE REST API
+
 ## Running
 Go run main.go
 
-# API LOGIN REGISTER
-/login
-/users
+## LOGIN REGISTER
+- POST      /login
+- REGISTER  /users
 
-# API CRUD
-GET
-/posts
-
-POST
-/posts
-
-PUT / DELETE
-/posts/{id}
+## CRUD
+- GET       /posts
+- POST      /posts
+- PUT       /posts/{id}
+- DELETE    /posts/{id}
 
 Screenshoot hasil ada di folder screenshoot

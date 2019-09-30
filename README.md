@@ -4,7 +4,7 @@
 Go run main.go
 
 ## LOGIN REGISTER
-- POST      /login
+- LOGIN     /login
 - REGISTER  /users
 
 ## CRUD
